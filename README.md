@@ -1,3 +1,3 @@
-# React-Animations
+# ReactNative-Animations
 
 projects from Udemy course
